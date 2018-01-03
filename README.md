@@ -9,3 +9,5 @@ Linux内核层:  Android系统是基于Linux内核的,这一层为Android设备�
 应用层  所有安装在手机上的应用程序都是属于这一层的
 
 2014年 谷歌推出了号称史上版本改动最大的Android5.0系统 其中使用了ART运行环境代替了Dalvik虚拟机,大大提升了运行速度,还提出了Material Design的概念来优化应用的界面设计 除此之外 还提出了Android Wear Android Auto Android TV系统,从而进军可穿戴设备 汽车 电视等全新领域 6.0加入运行时权限功能 7.0加入多窗口模式功能
+
+
